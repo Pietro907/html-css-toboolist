@@ -3,6 +3,11 @@
     font-family: 'Montserrat', sans-serif;
     vertical-align: 50%;
 }
+
+main {
+    width: 75%;
+    margin: auto;
+}
 .button {
     border: 1px solid black;
     border-top-left-radius: 5px;
@@ -15,7 +20,7 @@
  #button_task {
     background-color: rgb(65, 211, 255);
     color: white;
-    border-color: rgb(65, 211, 255);;
+    border-color: rgb(65, 211, 255);
  }
 
  #button_section{
@@ -23,3 +28,4 @@
     color: lightgray;
     border-color: lightgray;
 }
+
