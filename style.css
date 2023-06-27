@@ -17,7 +17,7 @@ main {
     padding: 5px;
 }
 
-.button_task {
+#button_task {
     background-color: rgb(65, 211, 255);
     color: white;
     border-color: rgb(65, 211, 255);
