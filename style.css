@@ -17,11 +17,11 @@ main {
     padding: 5px;
 }
 
- #button_task {
+.button_task {
     background-color: rgb(65, 211, 255);
     color: white;
     border-color: rgb(65, 211, 255);
- }
+}
 
  #button_section{
     background-color: white;
@@ -29,3 +29,42 @@ main {
     border-color: lightgray;
 }
 
+.violet {
+    background-color: violet;
+    color: white;
+}
+
+.lightgreen {
+    background-color: rgba(3, 247, 19, 0.633);
+    color: white;
+}
+
+.orange {
+    background-color: orange;
+    color: white;
+}
+
+.fuchsia {
+    background-color: fuchsia;
+    color: white;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+.heavenly {
+    background-color: rgb(65, 211, 255);
+    color: white;
+}
+.lime {
+    color: lime;
+}
+.red {
+    color: red;
+}
+.lime,.red {
+    border: 1px solid;
+    border-radius: 100%;
+    padding: 2px;
+}
