@@ -3,3 +3,23 @@
     font-family: 'Times New Roman', Times, serif;
     vertical-align: 50%;
 }
+.button {
+    border: 1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 5px;
+}
+
+ #button_task {
+    background-color: rgb(65, 211, 255);
+    color: white;
+    border-color: rgb(65, 211, 255);;
+ }
+
+ #button_section{
+    background-color: white;
+    color: lightgray;
+    border-color: lightgray;
+}
