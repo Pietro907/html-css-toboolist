@@ -1,11 +1,15 @@
 
 body {
-    background-color: rgb(246, 248, 249);
+    background-color: rgb(238, 239, 240);
     margin: auto;
 }
 
 header,main,nav {
     background-color: white;
+}
+nav,main{
+    width: 30%;
+
 }
 
 .logo {
@@ -20,18 +24,17 @@ header,main,nav {
 
 nav {
     margin: 50px auto 2px;
-    width: 60%;
     padding-top: 13px;
     padding-left: 60px;
     padding-bottom: 12px;
 }
 
 main {
-    width: 60%;
     margin: auto;
     padding-top: 25px;
     padding-left: 60px;
 }
+
 .button {
     border: 1px solid black;
     border-radius: 20px; 
